@@ -1,6 +1,6 @@
 Create node react app
      npx create-react-app myfrist
 
-rus react local host
+runs react local host
     go inside folder
     npm start
