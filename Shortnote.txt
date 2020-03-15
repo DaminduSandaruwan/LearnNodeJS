@@ -4,3 +4,11 @@ Create node react app
 runs react local host
     go inside folder
     npm start
+
+to get bootstap
+     npm install bootstap --save
+
+to set router ( to routing)
+     npm install react-router-dom --save
+
+
