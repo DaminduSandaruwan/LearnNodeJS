@@ -11,4 +11,5 @@ to get bootstap
 to set router ( to routing)
      npm install react-router-dom --save
 
-
+Creating Component
+     render - say how to display on browser
