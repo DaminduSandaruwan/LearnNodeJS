@@ -1,7 +1,7 @@
 import React, {Component} from 'react';
 
 export default class Edit extends Component{
-    rener(){
+    render(){
         return(
             <div>
                 <p> Welcome to Edit Component</p>
